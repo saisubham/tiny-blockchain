@@ -1,2 +1,4 @@
-bc-go.exe
 go.sum
+bc-go.exe
+bc.db
+bc.db.lock

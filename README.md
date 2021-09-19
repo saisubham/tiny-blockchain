@@ -1,4 +1,4 @@
-# tiny-blockchain (In progress)
+# tiny-blockchain
 
 A tiny blockchain written in Go
 
